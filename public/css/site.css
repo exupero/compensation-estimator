@@ -1,0 +1,61 @@
+body {
+  font-family: 'Helvetica Neue', Verdana, Helvetica, Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto 10rem;
+  padding-top: 1rem;
+  -webkit-font-smoothing: antialiased;
+  font-size: 1.125em;
+  color: #333;
+  line-height: 1.5em;
+}
+
+h1, h2, h3 {
+  color: #000;
+}
+h1 {
+  font-size: 2.5em
+}
+
+h2 {
+  font-size: 2em
+}
+
+h3 {
+  font-size: 1.5em
+}
+
+a {
+  text-decoration: none;
+  color: #09f;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  margin: 0.2rem 0;
+}
+
+label {
+  display: block;
+  margin: 0.1rem 2rem;
+}
+
+input {
+  font-size: 12pt;
+  width: 5rem;
+  padding: 0.3rem 0.3rem;
+}
+
+.heading {
+  margin-top: 1rem;
+}
+
+.scenarios {
+  margin-top: 1rem;
+}
+
+.scenario {
+  margin-top: 0;
+}
